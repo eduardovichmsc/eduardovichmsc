@@ -1,6 +1,6 @@
 - 👋 hi. it's me, darzhan
 - 👀 frontend dev / react 
-- 🌱 typescript
+- 🌱 js / ts
 - 📫 eduardovdarzhan@gmail.com
 
 <!---
