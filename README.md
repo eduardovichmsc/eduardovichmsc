@@ -1,5 +1,4 @@
 - 👋 hi. it's me, darzhan
-- 👀 frontend dev / react 
 - 🌱 js / ts
 - 📫 eduardovdarzhan@gmail.com
 
